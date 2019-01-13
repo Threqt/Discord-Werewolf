@@ -2107,7 +2107,7 @@ async def cmd_fgame(message, parameters):
 
 @cmd('github', [0, 0], "```\n{0}github takes no arguments\n\nReturns a link to the bot's Github repository.```")
 async def cmd_github(message, parameters):
-    await reply(message, "http://github.com/belguawhale/Discord-Werewolf")
+    await reply(message, "https://www.youtube.com/watch?v=JxHJgYxXyaE")
 
 @cmd('ftemplate', [1, 2], "```\n{0}ftemplate <player> [<add|remove|set>] [<template1 [template2 ...]>]\n\nManipulates a player's templates.```")
 async def cmd_ftemplate(message, parameters):
